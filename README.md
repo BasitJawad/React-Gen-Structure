@@ -2,6 +2,9 @@
 
 A simple CLI tool to quickly generate a React project using Vite, React Router, and a pre-configured context folder.
 
+# Note
+* Dont use ``` npm i react-gen-structure ``` as it will not work.
+
 ## Installation
 
 Use `npx` to run `react-gen-structure`:
